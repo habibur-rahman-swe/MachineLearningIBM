@@ -1,0 +1,85 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Asia/Dhaka
+X-LIC-LOCATION:Asia/Dhaka
+BEGIN:STANDARD
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+TZNAME:+06
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Dhaka:20231119T110000
+DTEND;TZID=Asia/Dhaka:20231119T120000
+DTSTAMP:20231114T070056Z
+ORGANIZER;CN=Recruitment Team:mailto:recruitment@welldev.io
+UID:4isjf0llk65dhjg9agmlcjgqtk@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=habibur18cse048@gmail.com;X-NUM-GUESTS=0:mailto:habibur18cse048@gma
+ il.com
+X-MICROSOFT-CDO-OWNERAPPTID:-1188176783
+CREATED:20231114T064716Z
+DESCRIPTION:𝐃𝐞𝐚𝐫 𝐂𝐚𝐧𝐝𝐢𝐝𝐚𝐭𝐞\,\n\nWe are glad to inform you that
+  you have been shortlisted to attend an online technical test at 𝐖𝐞𝐥𝐥𝐃
+ 𝐞𝐯 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐋𝐭𝐝. for 𝐓𝐫𝐚𝐢𝐧𝐞𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧
+ 𝐠𝐢𝐧𝐞𝐞𝐫 position. Please read the instructions and exam details below\
+ , and prepare yourself accordingly.\n\n𝐄𝐱𝐚𝐦 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:\n\n𝐄𝐱𝐚𝐦
+  𝐃𝐚𝐭𝐞 & 𝐓𝐢𝐦𝐞: 19th November 2023 (Sunday) at 11:00 AM. \nTo confirm
+  your participation you must choose: 𝐘𝐄𝐒 / 𝐍𝐎 𝐟𝐫𝐨𝐦 𝐲𝐨𝐮𝐫 𝐜𝐚𝐥
+ 𝐞𝐧𝐝𝐚𝐫 (𝐃𝐞𝐚𝐝𝐥𝐢𝐧𝐞 𝐟𝐨𝐫 𝐚𝐜𝐜𝐞𝐩𝐭𝐚𝐧𝐜𝐞 𝐢𝐬 𝟏𝟖 𝐍𝐨𝐯𝐞
+ 𝐦𝐛𝐞𝐫\,  𝟒:𝟎𝟎 𝐏𝐌) You don’t need to reply to this email.\n\n𝐄𝐱𝐚
+ 𝐦 𝐃𝐮𝐫𝐚𝐭𝐢𝐨𝐧: 60 Minutes\, starts from 𝟏𝟏:𝟎𝟎 𝐀𝐌 and finishes a
+ t 𝟏𝟐:𝟎𝟎 𝐏𝐌. Submissions past the time limit will be considered disqua
+ lified. (e.g. if you start at 𝟏𝟎:𝟓𝟗 𝐀𝐌 and submit at 𝟏𝟐:𝟎𝟎 𝐏𝐌 t
+ hen you will be disqualified\, it will be best if you can submit 𝟏/𝟐 minu
+ tes earlier)\n\n𝐄𝐱𝐚𝐦 𝐓𝐲𝐩𝐞: An MCQ exam on a google form which will 
+ cover Analytical\, Mathematical\, General Knowledge and some other exciting
+  areas.\n\n𝐏𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐢𝐨𝐧: An email will be sent  to you  𝟏𝟓 
+ 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 before the exam with instructions and exam link. N.B. You ca
+ n start early\, but the 60 minutes timer will start immediately (e.g. if yo
+ u start at 𝟏𝟎:𝟓𝟗 𝐀𝐌 and submit at 𝟏𝟐:𝟎𝟎 𝐏𝐌 then you will be dis
+ qualified\, and your answer will not be recorded in this scenario).\n\n𝐄𝐧
+ 𝐬𝐮𝐫𝐞:\n# Availability of PC/Laptop\n# Working webcam\n# Fast Internet (
+ backup of Mobile data)\n# Power Backup - UPS (In case of electricity outage
+ )\n𝐍𝐨𝐭𝐞:\n# The MCQ test cannot be attended from a mobile phone\n# You 
+ can not close screen sharing during the exam\n\n𝐑𝐞𝐬𝐭𝐫𝐢𝐜𝐭𝐢𝐨𝐧𝐬: E
+ xam will be tracked and recorded through a software which will ask for your
+  Webcam and PC screen access. After getting access\, it will record your fa
+ ce/eye movement and your windows and tabs. Please note\, the software will 
+ take screenshots of your PC and take pictures of you during the exam period
+ ically.  Candidates are not allowed to take any help from any person\,  int
+ ernet resources\, calculator\, cellphone\, or using any other device except
+  pen/pencil and blank paper if needed to calculate. Candidates are not allo
+ wed to use multiple monitors during the exam. Opening any tab or window in 
+ another browser except mail and exam tab will be considered as breaking the
+  rules. Candidates found breaking the rules will be disqualified & blacklis
+ ted for future exams.\n\n𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐢𝐟𝐟𝐢𝐜𝐮𝐥𝐭𝐢𝐞𝐬: In or
+ der to minimise the difficulties we suggest you use google chrome. Clear ca
+ ches and site data for smooth access. Otherwise try with other browsers\, a
+ nd if it still does not work then restart the browser or computer. If you s
+ tart the exam\, and after that\, face any technical difficulties\, then rea
+ ch us at 𝐫𝐞𝐜𝐫𝐮𝐢𝐭𝐦𝐞𝐧𝐭@𝐰𝐞𝐥𝐥𝐝𝐞𝐯.𝐢𝐨 with proper screenshots
+  and explanation.\n\n𝐓𝐞𝐬𝐭 𝐑𝐞𝐬𝐮𝐥𝐭: An update of the test will be s
+ hared via email within 14 days from the exam date with the candidates.\n\n
+ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐍𝐨𝐭𝐞 - This is a bulk MCQ test from the system where many 
+ candidates participate at a same time\, So\, It is not possible to arrange/
+ reschedule MCQ tests for a single person. However\, if you still miss the e
+ xam\, we request you to send us an email to our recruitment email: 𝐫𝐞𝐜𝐫
+ 𝐮𝐢𝐭𝐦𝐞𝐧𝐭@𝐰𝐞𝐥𝐥𝐝𝐞𝐯.𝐢𝐨 with a proper explanation.\n\nBest Regar
+ ds\,\n𝐖𝐞𝐥𝐥𝐃𝐞𝐯 𝐑𝐞𝐜𝐫𝐮𝐢𝐭𝐦𝐞𝐧𝐭 𝐓𝐞𝐚𝐦
+LAST-MODIFIED:20231114T070054Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:𝐖𝐞𝐥𝐥𝐃𝐞𝐯: Technical MCQ Test Invitation for Trainee Software 
+ Engineer - 
+TRANSP:OPAQUE
+ATTACH;FILENAME=Job Link:https://recruitment.welldev.io/public/jobs/db88764
+ e-b85f-4f7f-b59f-61e5c77c3e77
+END:VEVENT
+END:VCALENDAR
